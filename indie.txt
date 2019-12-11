@@ -1,5 +1,5 @@
 http://alwaysherepodcast.libsyn.com/rss
-http://architecturetalk.org/rss
+http://architecturetalk.libsyn.com/rss
 http://artscultureths.libsyn.com/rss
 http://bakedandawake.libsyn.com/rss
 http://beastnet.podomatic.com/rss2.xml
