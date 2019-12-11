@@ -102,7 +102,6 @@ http://theadventuringsisterspodcast.podomatic.com/rss2.xml
 http://thegalerieconversation.libsyn.com/rss
 http://theovercast.libsyn.com/rss
 http://thepowellmovement.libsyn.com/rss
-http://theseattlefiles.com/feed/podcast/
 http://tidespodcast.libsyn.com/rss
 http://transformationalspeakerspodcast.libsyn.com/rss
 http://truecrimecascadia.libsyn.com/rss
