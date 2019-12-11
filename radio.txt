@@ -12,7 +12,6 @@ https://kplu.drupal.publicbroadcasting.net/feeds/term/5710/rss.xml
 https://kplu.drupal.publicbroadcasting.net/feeds/term/5803/rss.xml
 https://kplu.drupal.publicbroadcasting.net/feeds/term/6409/rss.xml
 https://kplu.drupal.publicbroadcasting.net/rss.xml
-https://www.knkx.org/rss
 https://www.kuow.org/feeds/podcasts/primed/podcasts/rss.xml
 https://www.kuow.org/feeds/podcasts/radioactive/podcasts/rss.xml
 https://www.kuow.org/feeds/podcasts/terrestrial/podcasts/rss.xml
