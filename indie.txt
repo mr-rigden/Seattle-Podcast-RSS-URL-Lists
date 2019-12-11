@@ -22,11 +22,11 @@ http://feeds.feedburner.com/FilmwonkPodcast
 http://feeds.feedburner.com/Full90
 http://feeds.feedburner.com/PeculiarPodcast
 http://feeds.feedburner.com/SeattleTransitBlogPodcasts
+https://feeds.transistor.fm/pro-cheerleading-podcast-the-truth-behind-the-poms
 http://feeds.feedburner.com/TheSpoilersWayneDaryl
 http://feeds.feedburner.com/birdnote/OYfP
 http://feeds.feedburner.com/peltoncast
 http://feeds.megaphone.fm/omnibus
-http://feeds.podiant.co/procheerleadingpodcast/rss.xml
 http://feeds.soundcloud.com/users/soundcloud:users:13270730/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:137549337/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:163753763/sounds.rss
