@@ -1,0 +1,13 @@
+https://kplu.drupal.publicbroadcasting.net/feeds/3103/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/3104/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/43217/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/1024/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/26/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/27/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/2766/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/29/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/31/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/5710/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/5803/rss.xml
+https://kplu.drupal.publicbroadcasting.net/feeds/term/6409/rss.xml
+https://kplu.drupal.publicbroadcasting.net/rss.xml
