@@ -123,7 +123,7 @@ http://www.movetotacoma.com/feed/podcast/
 http://www.spilledmilkpodcast.com/rss
 http://www.spreaker.com/show/2187033/episodes/feed
 http://www.spreaker.com/show/2788449/episodes/feed
-http://www.starwarsreport.com/feed/podcast/
+http://feeds.feedburner.com/starwarsreport_podcast
 http://www.thelawofstartups.com/podcast?format=rss
 https://1supersab.podbean.com/feed.xml
 https://acquired.libsyn.com/rss
