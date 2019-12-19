@@ -12,6 +12,7 @@ http://dcstwpod.libsyn.com/rss
 http://deadbeatfilmsociety.libsyn.com/rss
 http://decantedpodcast.libsyn.com/rss
 http://depolarize.blubrry.net/feed/podcast/
+http://doomedplanet.libsyn.com/rss
 http://engineers.coffee/rss.xml
 http://factualthoughts.libsyn.com/Factualthoughts
 http://feedpress.me/d20dames
@@ -78,6 +79,7 @@ http://nosaudietis.libsyn.com/rss
 http://notplayingstupid.com/feed/podcast/
 http://otherwashington.libsyn.com/rss
 http://overlake.libsyn.com/rss
+https://plantdaddypodcast.libsyn.com/rss
 http://philosophizethis.libsyn.com/rss
 http://pikeplacepodcast.libsyn.com/rss
 http://podcastalavistababy.com/feed/podcast
@@ -198,6 +200,7 @@ https://www.cyclingcicerone.com/blog?format=rss
 https://www.exratedmovies.com/episodes?format=RSS
 https://www.floundersbteam.com/podcast-feed/?format=rss
 https://www.gritcitypodcast.com/rss
+https://www.podserve.fm/series/rss/182/better-left-podcast.rss
 https://www.seattle.sucks/rss/podcast.rss
 https://www.spreaker.com/show/2578996/episodes/feed
 https://www.spreaker.com/show/3269717/episodes/feed
@@ -206,4 +209,5 @@ https://www.spreaker.com/show/3277962/episodes/feed
 https://www.spreaker.com/show/3298691/episodes/feed
 https://www.spreaker.com/user/8240787/episodes/feed
 https://www.theblockchain-buzz.com/podcastsforitunes?format=rss
+https://www.thecarymillershow.com/episodes?format=rss
 https://www.trashfoodpodcast.com/?format=rss
