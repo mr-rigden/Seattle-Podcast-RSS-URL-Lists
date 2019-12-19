@@ -34,6 +34,7 @@ http://feeds.soundcloud.com/users/soundcloud:users:165556344/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:185807760/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:196741173/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:222351900/sounds.rss
+http://feeds.soundcloud.com/users/soundcloud:users:235536482/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:240945534/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:247279574/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:257868090/sounds.rss
