@@ -18,7 +18,6 @@ https://www.kuow.org/feeds/podcasts/terrestrial/podcasts/rss.xml
 https://www.kuow.org/feeds/podcasts/the-record/podcasts/rss.xml
 https://www.kuow.org/feeds/podcasts/week-in-review/podcasts/rss.xml
 https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/0eb42db4-2877-4700-80d1-a895017ec4e2/8be7433c-aea8-4f6e-950a-a895017ec4e7/podcast.rss
-https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/0eb42db4-2877-4700-80d1-a895017ec4e2/8be7433c-aea8-4f6e-950a-a895017ec4e7/podcast.rss
 https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/53c35ce1-787c-438b-bedc-a8d6016e5046/d309aad4-e9ec-477c-8476-a8d6016e5046/podcast.rss
 https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/5c2d07fe-0ef9-4b04-9646-a9d20148a726/e62e19db-f740-456f-b0a6-a9d2014b5993/podcast.rss
 https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/8d9a1859-9e31-45cb-82c8-a8d60171d36c/836fb68e-4d14-4ecf-914a-a8d60171d36c/podcast.rss
