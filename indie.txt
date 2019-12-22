@@ -211,3 +211,4 @@ https://www.spreaker.com/user/8240787/episodes/feed
 https://www.theblockchain-buzz.com/podcastsforitunes?format=rss
 https://www.thecarymillershow.com/episodes?format=rss
 https://www.trashfoodpodcast.com/?format=rss
+https://yourwritingdoesnotsuck.libsyn.com/rss
