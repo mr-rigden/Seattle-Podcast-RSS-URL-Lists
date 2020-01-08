@@ -3,6 +3,7 @@ http://architecturetalk.libsyn.com/rss
 http://artscultureths.libsyn.com/rss
 http://bakedandawake.libsyn.com/rss
 http://beastnet.podomatic.com/rss2.xml
+http://beerandmoney.libsyn.com
 http://blabbermouth.libsyn.com/rss
 http://cascadiahockeypodcast.libsyn.com/rss
 http://chasejarvislive.libsyn.com/itunes
@@ -69,6 +70,7 @@ http://feeds.soundcloud.com/users/soundcloud:users:578617686/sounds.rss
 http://feelinfilm.libsyn.com/rss
 http://hereinseattle.libsyn.com/rss
 http://highintensityhealth.libsyn.com/rss
+http://holisticfinance.libsyn.com/
 http://hottakeswithhotdykes.libsyn.com/rss
 http://inthemoment.libsyn.com/rss
 http://losingourreligion.libsyn.com/rss
