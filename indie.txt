@@ -188,6 +188,7 @@ https://queensofadventure.com/episodes?format=rss
 https://rss.simplecast.com/podcasts/5736/rss
 https://rss.simplecast.com/podcasts/6808/rss
 https://rss.simplecast.com/podcasts/9547/rss
+https://www.saplingwealth.com/feed/podcast
 https://seattlesworstpodcast.podbean.com/feed.xml
 https://silentsuperheroes.com/feed/podcast/
 https://tbirdtidbits.libsyn.com/rss
