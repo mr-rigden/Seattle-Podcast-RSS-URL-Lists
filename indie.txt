@@ -177,6 +177,7 @@ https://getnaked.blubrry.net/feed/podcast/
 https://hope-teaguebowling.squarespace.com/podcast?format=rss
 https://howtoliveto200.libsyn.com/rss
 https://minaspod.libsyn.com/rss
+https://ofhorse.libsyn.com/feed
 https://ontheedgepodcast.podbean.com/feed.xml
 https://oz9podcast.libsyn.com/rss
 https://pinecast.com/feed/bigfoot-and-bob
