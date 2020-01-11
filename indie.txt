@@ -67,6 +67,7 @@ http://feeds.soundcloud.com/users/soundcloud:users:560489676/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:562403688/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:56655023/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:578617686/sounds.rss
+http://feeds.soundcloud.com/users/soundcloud:users:446741187/sounds.rss
 http://feelinfilm.libsyn.com/rss
 http://hereinseattle.libsyn.com/rss
 http://highintensityhealth.libsyn.com/rss
@@ -174,6 +175,7 @@ https://feeds.transistor.fm/bitches-liches
 https://feministswithoutmystique.podbean.com/feed.xml
 https://fitmess.libsyn.com/rss
 https://getnaked.blubrry.net/feed/podcast/
+https://gilmoreballz.wordpress.com/category/podcast/feed/
 https://hope-teaguebowling.squarespace.com/podcast?format=rss
 https://howtoliveto200.libsyn.com/rss
 https://minaspod.libsyn.com/rss
