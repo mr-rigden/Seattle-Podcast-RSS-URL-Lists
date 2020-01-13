@@ -6,6 +6,7 @@ http://beastnet.podomatic.com/rss2.xml
 http://beerandmoney.libsyn.com
 http://blabbermouth.libsyn.com/rss
 http://cascadiahockeypodcast.libsyn.com/rss
+https://casuallyawkward.podbean.com/feed.xml
 http://chasejarvislive.libsyn.com/itunes
 http://civicsths.libsyn.com/rss
 http://dattpodcastnetwork.libsyn.com/rss
