@@ -202,6 +202,7 @@ https://rss.simplecast.com/podcasts/9547/rss
 https://www.saplingwealth.com/feed/podcast
 https://seattlesworstpodcast.podbean.com/feed.xml
 https://silentsuperheroes.com/feed/podcast/
+https://talkingmopars.libsyn.com/rss
 https://tbirdtidbits.libsyn.com/rss
 https://theenematiccinematic.podbean.com/feed.xml
 https://thenosubjectpodcast.blubrry.net/feed/podcast/
