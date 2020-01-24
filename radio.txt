@@ -1,4 +1,5 @@
 http://feeds.kuow.org/secondwavepodcast
+http://www.podcastone.com/podcast?categoryID2=1193
 https://kplu.drupal.publicbroadcasting.net/feeds/3103/rss.xml
 https://kplu.drupal.publicbroadcasting.net/feeds/3104/rss.xml
 https://kplu.drupal.publicbroadcasting.net/feeds/43217/rss.xml
@@ -39,3 +40,4 @@ https://www.omnycontent.com/d/playlist/6d1b1a1a-28ad-418a-8626-a89a000a9890/9aee
 https://www.omnycontent.com/d/playlist/6d1b1a1a-28ad-418a-8626-a89a000a9890/aa85989e-e1c2-48e3-9f0e-a8cd012fa928/2e18d43d-f6db-42dc-a114-a8cd012fa931/podcast.rss
 https://www.omnycontent.com/d/playlist/6d1b1a1a-28ad-418a-8626-a89a000a9890/c072f73f-5a8a-46ab-908b-a95b014f8487/ea9f2409-e9d1-4063-9f12-a95b015853fb/podcast.rss
 https://www.omnycontent.com/d/playlist/a48fdf2f-2d2f-4a2c-8c33-a58901574f8e/a1c0e78c-b374-4f87-982a-a589015797bd/9c204db7-f738-4b37-b71a-a589015835ce/podcast.rss
+
