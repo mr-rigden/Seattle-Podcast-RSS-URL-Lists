@@ -168,6 +168,7 @@ https://fakegeekgirlscast.com/episodes?format=rss
 https://feed.pippa.io/public/shows/5a5a6a952e88252a4c0273a3
 https://feed.pippa.io/public/shows/uxcake
 https://feed.podbean.com/almostchillcast/feed.xml
+https://feed.podbean.com/casuallyawkward/feed.xml
 https://feed.podbean.com/gayishpodcast/feed.xml
 https://feed.podbean.com/pwspacecast/feed.xml
 https://feed.podbean.com/spoilercountry/feed.xml
