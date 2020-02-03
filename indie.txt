@@ -179,6 +179,7 @@ https://feed.podbean.com/wealorwoe/feed.xml
 https://feed.podbean.com/weirdington/feed.xml
 https://feeds.buzzsprout.com/150389.rss
 https://feeds.buzzsprout.com/225498.rss
+https://feeds.buzzsprout.com/798857.rss
 https://feeds.feedburner.com/btsw
 https://feeds.megaphone.fm/mouthymessymandatory
 https://feeds.megaphone.fm/wethepeoplewithninaturner
