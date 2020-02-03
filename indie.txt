@@ -133,6 +133,7 @@ http://www.thelawofstartups.com/podcast?format=rss
 https://1supersab.podbean.com/feed.xml
 https://acquired.libsyn.com/rss
 https://anchor.fm/s/11bf1038/podcast/rss
+https://anchor.fm/s/20deb8c/podcast/rss
 https://anchor.fm/s/2cfa86c/podcast/rss
 https://anchor.fm/s/31a4b10/podcast/rss
 https://anchor.fm/s/352157c/podcast/rss
