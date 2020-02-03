@@ -163,6 +163,7 @@ https://brokenalaska.libsyn.com/rss
 https://coldcanspodcast.com/?category=podcast&format=rss
 https://coldpodcast.libsyn.com/rss
 https://deskset.libsyn.com/rss
+https://dispatches.fm/feed/podcast/
 https://ellessmedia.com/feed/podcast/
 https://fakegeekgirlscast.com/episodes?format=rss
 https://feed.pippa.io/public/shows/5a5a6a952e88252a4c0273a3
