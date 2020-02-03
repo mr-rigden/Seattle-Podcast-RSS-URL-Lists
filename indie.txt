@@ -125,6 +125,7 @@ http://www.kuow.org/feeds/podcasts/soundqs/podcasts/rss.xml
 http://www.kuow.org/feeds/podcasts/speakers-forum/podcasts/rss.xml
 http://www.mikemcginn.co/?format=rss
 http://www.movetotacoma.com/feed/podcast/
+http://www.sceneofthecrimepodcast.com/feed/podcast/
 http://www.spilledmilkpodcast.com/rss
 http://www.spreaker.com/show/2187033/episodes/feed
 http://www.spreaker.com/show/2788449/episodes/feed
