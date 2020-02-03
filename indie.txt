@@ -93,6 +93,7 @@ http://radiocuts.leg.wa.gov/2009/Podcasts/capitolideas.xml
 http://radiovsthemartians.com/feed/podcast/
 http://renerdish.podomatic.com/rss2.xml
 http://reversingclimatechange.libsyn.com/rss
+http://rightinfrontofmyface.libsyn.com/rss
 http://riseseattle.libsyn.com/rss
 http://scienceths.libsyn.com/rss
 http://seahawkerspodcast.libsyn.com/rss
