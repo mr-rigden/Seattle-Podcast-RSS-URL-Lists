@@ -19,6 +19,7 @@ http://doomedplanet.libsyn.com/rss
 http://engineers.coffee/rss.xml
 http://factualthoughts.libsyn.com/Factualthoughts
 http://feedpress.me/d20dames
+https://feeds.buzzsprout.com/549118.rss
 http://feeds.feedburner.com/206geek
 http://feeds.feedburner.com/BlackandAHalf
 http://feeds.feedburner.com/ByteMePodcast
