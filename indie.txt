@@ -9,6 +9,7 @@ http://cascadiahockeypodcast.libsyn.com/rss
 https://casuallyawkward.podbean.com/feed.xml
 http://chasejarvislive.libsyn.com/itunes
 http://civicsths.libsyn.com/rss
+http://comicbookbuds.libsyn.com/rss
 http://dattpodcastnetwork.libsyn.com/rss
 http://dcstwpod.libsyn.com/rss
 http://deadbeatfilmsociety.libsyn.com/rss
@@ -76,6 +77,7 @@ http://holisticfinance.libsyn.com/
 http://hottakeswithhotdykes.libsyn.com/rss
 http://inthemoment.libsyn.com/rss
 http://losingourreligion.libsyn.com/rss
+https://magneticlove.libsyn.com/rss
 http://mlb.mlb.com/feed/podcast/sea_podcast_rss.xml
 http://mlb.mlb.com/feed/podcast/wheelhouse_rss.xml
 http://mohrpleasepod.libsyn.com/rss
