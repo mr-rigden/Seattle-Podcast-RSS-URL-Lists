@@ -95,6 +95,7 @@ http://renerdish.podomatic.com/rss2.xml
 http://reversingclimatechange.libsyn.com/rss
 http://rightinfrontofmyface.libsyn.com/rss
 http://riseseattle.libsyn.com/rss
+http://savagelove.libsyn.com/rss
 http://scienceths.libsyn.com/rss
 http://seahawkerspodcast.libsyn.com/rss
 http://seatownpodcast.libsyn.com/rss
