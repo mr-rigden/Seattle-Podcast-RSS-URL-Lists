@@ -179,6 +179,7 @@ https://feed.pippa.io/public/shows/uxcake
 https://feed.podbean.com/almostchillcast/feed.xml
 https://feed.podbean.com/casuallyawkward/feed.xml
 https://feed.podbean.com/gayishpodcast/feed.xml
+https://feed.podbean.com/paidinpuke/feed.xml
 https://feed.podbean.com/pwspacecast/feed.xml
 https://feed.podbean.com/spoilercountry/feed.xml
 https://feed.podbean.com/wealorwoe/feed.xml
