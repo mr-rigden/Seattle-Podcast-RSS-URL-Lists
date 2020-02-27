@@ -202,6 +202,7 @@ https://minaspod.libsyn.com/rss
 https://ofhorse.libsyn.com/feed
 https://ontheedgepodcast.podbean.com/feed.xml
 https://oz9podcast.libsyn.com/rss
+https://pimspodcast.libsyn.com/rss
 https://pinecast.com/feed/bigfoot-and-bob
 https://podcastingquestions.libsyn.com/rss
 https://podcastjunkie.podbean.com/feed.xml
