@@ -71,6 +71,7 @@ http://feeds.soundcloud.com/users/soundcloud:users:562403688/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:56655023/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:578617686/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:446741187/sounds.rss
+http://feeds.soundcloud.com/users/soundcloud:users:496651185/sounds.rss
 http://feelinfilm.libsyn.com/rss
 http://hereinseattle.libsyn.com/rss
 http://highintensityhealth.libsyn.com/rss
